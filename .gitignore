@@ -1,0 +1,6 @@
+data/
+models/
+tmp/
+Pgpt2_512/
+.idea/
+__pycache__/.
